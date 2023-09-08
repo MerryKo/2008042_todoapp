@@ -1,5 +1,4 @@
 <script setup>
-import DeviceInfo from "@/components/headers/Info.vue"
 import DeviceItem from "@/components/devices/Item.vue"
 import { v4 as uuidv4 } from "uuid"
 import { ref, reactive } from "vue"
